@@ -1,4 +1,6 @@
-﻿# Radar Scanner Visualizer
+﻿# Radar Scanner
+
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Radar-blue) ![Status](https://img.shields.io/badge/status-Active-success)
 
 Arduino-based ultrasonic radar sketch paired with Processing visualization for sweep plotting.
 
