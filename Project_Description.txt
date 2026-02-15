@@ -1,0 +1,4 @@
+﻿Title: Radar Scanner Visualizer
+Overview: Arduino-based ultrasonic radar sketch paired with Processing visualization for sweep plotting.
+Hardware: Arduino Uno, HC-SR04 sensor, SG90 servo, Processing host PC.
+Notes: Load Radar_java.pde in Processing to view the real-time sweep output.
